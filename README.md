@@ -1,25 +1,25 @@
-## 📄 Project Report
+##  Project Report
 
-### 🔹 Project Title
+###  Project Title
 **Plants vs Zombies – Java Swing Clone**
 
-### 🔹 Course
+###  Course
 **Software Development**  
-**Semester:** 04
+**Semester:** 0
 
-### 🔹 Made by
+###  Made by
 - Mansoob-e-Zahra  
 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To replicate the core mechanics of the classic *Plants vs Zombies* game using **Java Swing**, emphasizing object-oriented principles, GUI development, multimedia integration, and real-time user interaction.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Programming Language**: Java  
 - **IDE**: VS Code / IntelliJ  
@@ -30,7 +30,7 @@ To replicate the core mechanics of the classic *Plants vs Zombies* game using **
 
 ---
 
-## 🧠 Core Programming Concepts Applied
+##  Core Programming Concepts Applied
 
 - **Object-Oriented Programming (OOP)**:  
   - Class hierarchies for `Plant`, `Zombie`, `Projectile`, and `GamePanel`
@@ -51,19 +51,19 @@ To replicate the core mechanics of the classic *Plants vs Zombies* game using **
 
 ---
 
-## 🎮 Key Features
+##  Key Features
 
-- ✅ **Grid-Based Lawn**: Divides the screen into rows and columns for plant placement  
-- 🌻 **Multiple Plant Types**: Each plant has unique behavior (e.g., shooter, sun producer)  
-- 🧟 **Zombie AI**: Zombies spawn at intervals and automatically move toward the house  
-- 💥 **Projectiles**: Peashooters fire bullets at zombies, removing health on collision  
-- 🔊 **Sound Effects**: Includes effects for shooting, zombie death, and game events  
-- 🖼️ **Graphical Interface**: Colorful visuals using image icons and background assets  
-- ⏳ **Timed Events**: Uses `javax.swing.Timer` for controlled game speed  
-- 🧠 **Win/Loss Logic**:  
+-  **Grid-Based Lawn**: Divides the screen into rows and columns for plant placement  
+-  **Multiple Plant Types**: Each plant has unique behavior (e.g., shooter, sun producer)  
+-  **Zombie AI**: Zombies spawn at intervals and automatically move toward the house  
+-  **Projectiles**: Peashooters fire bullets at zombies, removing health on collision  
+-  **Sound Effects**: Includes effects for shooting, zombie death, and game events  
+-  **Graphical Interface**: Colorful visuals using image icons and background assets  
+-  **Timed Events**: Uses `javax.swing.Timer` for controlled game speed  
+-  **Win/Loss Logic**:  
   - Lose when a zombie reaches the house  
   - Win when all zombies are eliminated  
-- 🪙 **Sun Collection Mechanism** *(if implemented)*:  
+-  **Sun Collection Mechanism** *(if implemented)*:  
   - Suns fall randomly or via sunflower  
   - User collects suns to purchase plants  
 - 🔁 **Restart & Quit Options**: Simple UI controls to restart or exit the game  
