@@ -5,7 +5,7 @@
 
 ###  Course
 **Software Development**  
-**Semester:** 0
+**Semester:** 04
 
 ###  Made by
 - Mansoob-e-Zahra  
@@ -22,7 +22,7 @@ To replicate the core mechanics of the classic *Plants vs Zombies* game using **
 ##  Tools & Technologies Used
 
 - **Programming Language**: Java  
-- **IDE**: VS Code / IntelliJ  
+- **IDE**: VS Code / IntelliJ    i used vs code  
 - **GUI Library**: Java Swing  
 - **Multimedia**: Java Sound API  
 - **Assets**: Custom icons, images, and sound effects for gameplay elements  
@@ -66,15 +66,15 @@ To replicate the core mechanics of the classic *Plants vs Zombies* game using **
 -  **Sun Collection Mechanism** *(if implemented)*:  
   - Suns fall randomly or via sunflower  
   - User collects suns to purchase plants  
-- 🔁 **Restart & Quit Options**: Simple UI controls to restart or exit the game  
-- 🧪 **Debug-Friendly Structure**: Modular code for easy testing and expansion  
-- 🛡️ **Collision Detection System**: Checks when bullets hit zombies and updates HP  
-- 📊 **Scoring System** *(optional)*: Tracks zombie kills or survival time  
-- 🎨 **Splash Screen & Game Over Panel** *(optional)*  
+-  **Restart & Quit Options**: Simple UI controls to restart or exit the game  
+-  **Debug-Friendly Structure**: Modular code for easy testing and expansion  
+-  **Collision Detection System**: Checks when bullets hit zombies and updates HP  
+-  **Scoring System** *(optional)*: Tracks zombie kills or survival time  
+-  **Splash Screen & Game Over Panel** *(optional)*  
 
 ---
 
-## 📐 Mathematical Concepts (If Required)
+##  Mathematical Concepts (If Required)
 
 - **Graph Theory**:  
   - Grid-based board can be modeled as a graph for movement/pathfinding logic
@@ -91,7 +91,7 @@ To replicate the core mechanics of the classic *Plants vs Zombies* game using **
 
 ---
 
-## ⚔️ Challenges Faced
+##  Challenges Faced
 
 - Synchronizing real-time events like zombie spawning and projectile movement  
 - Maintaining consistent frame rate and UI responsiveness  
@@ -102,7 +102,7 @@ To replicate the core mechanics of the classic *Plants vs Zombies* game using **
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates a practical application of core programming skills in building a real-time interactive game. It integrates Java GUI development with multimedia elements and object-oriented design. It was both a challenging and rewarding experience that deepened our understanding of how professional games are structured at a fundamental level.
 
